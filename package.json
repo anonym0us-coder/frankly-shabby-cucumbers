@@ -1,0 +1,12 @@
+{
+    "name": "simple-website-template",
+    "version": "1.0.0",
+    "description": "A simple website template for Render.com",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.21.2"
+    }
+}
